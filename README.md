@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber-Physical System (CPS), Computer Vision (CV) and Deep Reinforcement Learning (DRL) for robotic applications.
 - 🌱 I’m currently learning DRL and game theory for Multi-agent DRL research.
 - 💞️ I’m looking to collaborate on CV and DRL research for drone target search and navigation.
-- 📫 How to reach me ...
+- 📫 How to reach me, please email me at xjp99v5@gmail.com.
 
 <!---
 xjp99v5/xjp99v5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
