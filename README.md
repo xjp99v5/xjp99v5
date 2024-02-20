@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiaping Xiao, a Ph.D. student at Nanyang Technological University, Singapore (NTU).
-- 🌱 I’m currently working on *DRL and machine vision for drones* [Visual DRL](https://github.com/NTU-UAVG).
+- 🌱 I’m currently working on *DRL and machine vision for drones* [Visual DRL](https://github.com/NTU-ICG).
 
 ## Star History
 
