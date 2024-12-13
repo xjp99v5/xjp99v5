@@ -3,7 +3,7 @@
 
 ## News
 - 2024.9.15 I have started my Research Fellow Position in NTU.
-- 2024.7.04 I have successfully passed my Ph.D. defense ([Ph.D. thesis avaiable](https://dr.ntu.edu.sg/handle/10356/179456)).
+- 2024.7.04 I have successfully passed my Ph.D. defense ([Ph.D. thesis available](https://dr.ntu.edu.sg/handle/10356/179456)).
 - 2024.7.02 I have been nominated for [Schmidt Science Fellows](https://schmidtsciencefellows.org/) candidate.
 
 ## Star History
