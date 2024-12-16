@@ -21,6 +21,7 @@
 - IEEE Transactions on Cybernetics
 - IEEE Transactions on Intelligent Vehicles
 - IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Robotics
 - IEEE Transactions on Automation Science and Engineering
 - IEEE Transactions on Aritificial Intelligence
 - IEEE Transactions on Control Systems Technology
