@@ -12,7 +12,7 @@
 - Editorial Board of [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/)
 
 ### Program Committee
-- technical committee member at the 18th International Conference on Advanced Computer Theory and Engineering ([ICACTE 2025](https://www.icacte.org/)) 
+- Technical Committee Member at the 18th International Conference on Advanced Computer Theory and Engineering ([ICACTE 2025](https://www.icacte.org/)) 
 - Workshop Chair of the 2nd International conference on the Frontiers of Intelligent Control, Measurement and Signal Systems ([FICMSS 2025](https://www.ficmss.org/workshops/))
 - International Programme Committee Member at the International Conference on Drones and Unmanned Systems 2025 ([DAUS' 2025](https://daus-conference.com/))
 - Technical Program Committee at the 9th International Conference on Computer Science and Application Engineering ([CSAE 2025](https://csaeconf.org/2025/Committee.aspx))
