@@ -16,7 +16,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
 </p>
 <p>
-<img width="35%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjp99v5&show_icons=true&locale=en&layout=compact" alt="xjp99v5" 
+<img width="35%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTU-ICG&show_icons=true&locale=en&layout=compact" alt="NTU-ICG" 
 />
 
 
