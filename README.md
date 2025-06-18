@@ -13,6 +13,7 @@
 - Member of IEEE Computational Intelligence Society [The Intelligent Systems Applications Technical Committee (ISATC)](https://cis.ieee.org/committees/technical-committees/intelligent-systems-applications-technical-committee)
 
 ### Program Committee
+- International Program Committees Member of International Symposium on Embodied intelligence and Humanoid Robots ([Roboi 2025](https://www.roboi.org/committees.html))
 - Technical Committee Member at the 18th International Conference on Advanced Computer Theory and Engineering ([ICACTE 2025](https://www.icacte.org/)) 
 - Workshop Chair of the 2nd International conference on the Frontiers of Intelligent Control, Measurement and Signal Systems ([FICMSS 2025](https://www.ficmss.org/workshops/))
 - International Programme Committee Member at the International Conference on Drones and Unmanned Systems 2025 ([DAUS' 2025](https://daus-conference.com/))
