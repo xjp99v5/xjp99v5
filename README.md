@@ -18,6 +18,8 @@
 <p>
 <img width="35%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjp99v5&show_icons=true&locale=en&layout=compact" alt="xjp99v5" 
 
+
+
 ## News
 - 2024.12.16 I have joined the Editorial Board of [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/). 
 - 2024.9.15 I have started my Research Fellow Position in NTU.
