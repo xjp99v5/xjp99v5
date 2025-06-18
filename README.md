@@ -16,8 +16,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
 </p>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=NTU-ICG/CTS-visual-drone-swarm,NTU-ICG/AMS-DRL-for-Pursuit-Evasion,NTU-ICG/multidrone-detection-tracking,xjp99v5/Angle-Constrained-Formation-UAVs&type=Timeline)](https://star-history.com/#NTU-ICG/CTS-visual-drone-swarm&NTU-ICG/AMS-DRL-for-Pursuit-Evasion&NTU-ICG/multidrone-detection-tracking&xjp99v5/Angle-Constrained-Formation-UAVs&Timeline)
-
 
 ## News
 - 2024.12.16 I have joined the Editorial Board of [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/). 
@@ -59,7 +57,7 @@
 
 ## Star History
 
-
+[![Star History Chart](https://api.star-history.com/svg?repos=NTU-ICG/CTS-visual-drone-swarm,NTU-ICG/AMS-DRL-for-Pursuit-Evasion,NTU-ICG/multidrone-detection-tracking,xjp99v5/Angle-Constrained-Formation-UAVs&type=Timeline)](https://star-history.com/#NTU-ICG/CTS-visual-drone-swarm&NTU-ICG/AMS-DRL-for-Pursuit-Evasion&NTU-ICG/multidrone-detection-tracking&xjp99v5/Angle-Constrained-Formation-UAVs&Timeline)
 
 
 
