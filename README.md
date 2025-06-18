@@ -2,18 +2,7 @@
 - 🌱 I’m currently working on DRL and machine vision for drones at [NTU-ICG](https://github.com/NTU-ICG).
 
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xjp99v5" alt="xjp99v5" /></a> 
-</p>
-
-<p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=xjp99v5&show_icons=true&hide_border=true"/>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xjp99v5" alt="xjp99v5" /></a> 
 </p>
 
 
