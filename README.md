@@ -15,11 +15,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
 </p>
-<p>
-<img width="35%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTU-ICG&show_icons=true&locale=en&layout=compact" alt="NTU-ICG" 
-/>
 
-
+[![Star History Chart](https://api.star-history.com/svg?repos=NTU-ICG/CTS-visual-drone-swarm,NTU-ICG/AMS-DRL-for-Pursuit-Evasion,NTU-ICG/multidrone-detection-tracking,xjp99v5/Angle-Constrained-Formation-UAVs&type=Timeline)](https://star-history.com/#NTU-ICG/CTS-visual-drone-swarm&NTU-ICG/AMS-DRL-for-Pursuit-Evasion&NTU-ICG/multidrone-detection-tracking&xjp99v5/Angle-Constrained-Formation-UAVs&Timeline)
 
 
 ## News
