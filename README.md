@@ -10,6 +10,7 @@
 ## Academic Service
 ### Editor
 - Editorial Board of [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/)
+- Member of IEEE Computational Intelligentce Society [The Intelligent Systems Applications Technical Committee (ISATC)](https://cis.ieee.org/committees/technical-committees/intelligent-systems-applications-technical-committee)
 
 ### Program Committee
 - Technical Committee Member at the 18th International Conference on Advanced Computer Theory and Engineering ([ICACTE 2025](https://www.icacte.org/)) 
