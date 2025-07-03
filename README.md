@@ -8,9 +8,9 @@
 
 ## News
 - 2024.12.16 I have joined the Editorial Board of [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/). 
-- 2024.9.15 I have started my Research Fellow Position in NTU.
 - 2024.7.04 I have successfully passed my Ph.D. defense ([Ph.D. thesis available](https://dr.ntu.edu.sg/handle/10356/179456)).
 - 2024.7.02 I have been nominated for [Schmidt Science Fellows](https://schmidtsciencefellows.org/) candidate.
+- 2024.3.15 I have started my Research Fellow Position in NTU.
 
 ## Academic Service
 ### Editor
