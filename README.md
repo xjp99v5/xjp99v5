@@ -9,7 +9,7 @@
 
 
 ## News
-- 2025.7.25 I have served a Guest Editor in Electronics for Special Issue ["Advances in Intelligent Computing and Systems Design"](https://www.mdpi.com/journal/electronics/special_issues/A5776T5066)
+- 2025.7.25 I have served a Guest Editor in Electronics for Special Issue "[Advances in Intelligent Computing and Systems Design](https://www.mdpi.com/journal/electronics/special_issues/A5776T5066)".
 - 2024.12.16 I have joined the Editorial Board of [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/).
 - 2024.7.02 I have been nominated for [Schmidt Science Fellows](https://schmidtsciencefellows.org/) candidate.
 - 2024.3.15 I have started my Research Fellow Position in NTU.
