@@ -16,6 +16,7 @@
 
 ## Academic Service
 ### Editor
+- Guest Editor of [Electronics](https://www.mdpi.com/journal/electronics)
 - Editorial Board of [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/)
 - Member of IEEE Computational Intelligence Society [The Intelligent Systems Applications Technical Committee (ISATC)](https://cis.ieee.org/committees/technical-committees/intelligent-systems-applications-technical-committee)
 
