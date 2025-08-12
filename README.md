@@ -9,14 +9,16 @@
 
 
 ## News
-- 2025.7.25 I have served a Guest Editor in Electronics for Special Issue "[Advances in Intelligent Computing and Systems Design](https://www.mdpi.com/journal/electronics/special_issues/A5776T5066)".
+- 2025.08.08 I have joined the Editorial Board of [Robot Learning](https://www.elspub.com/journals/robot-learning/home/).
+- 2025.07.25 I have served a Guest Editor in Electronics for Special Issue "[Advances in Intelligent Computing and Systems Design](https://www.mdpi.com/journal/electronics/special_issues/A5776T5066)".
 - 2024.12.16 I have joined the Editorial Board of [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/).
-- 2024.7.02 I have been nominated for [Schmidt Science Fellows](https://schmidtsciencefellows.org/) candidate.
-- 2024.3.15 I have started my Research Fellow Position in NTU.
+- 2024.07.02 I have been nominated for [Schmidt Science Fellows](https://schmidtsciencefellows.org/) candidate.
+- 2024.03.15 I have started my Research Fellow Position in NTU.
 
 ## Academic Service
 ### Editor
 - Guest Editor of [Electronics](https://www.mdpi.com/journal/electronics)
+- Editorial Board of [Robot Learning](https://www.elspub.com/journals/robot-learning/home/)
 - Editorial Board of [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/editorial/)
 - Member of IEEE Computational Intelligence Society [The Intelligent Systems Applications Technical Committee (ISATC)](https://cis.ieee.org/committees/technical-committees/intelligent-systems-applications-technical-committee)
 
