@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiaping Xiao, a Ph.D. student at Nanyang Technological University, Singapore (NTU).
-- 🌱 I’m currently working on DRL and machine vision for multirobot systems at [NTU-ICG](https://github.com/NTU-ICG).
+- 🌱 I’m currently working on DRL and machine vision for multiagent systems at [NTU-ICG](https://github.com/NTU-ICG).
 
 
 </p>
