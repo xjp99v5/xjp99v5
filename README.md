@@ -26,10 +26,10 @@
 
 ### Journal Reviewers
 - IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Robotics
 - IEEE Transactions on Cybernetics
 - IEEE Transactions on Intelligent Vehicles
 - IEEE Transactions on Vehicular Technology
-- IEEE Transactions on Robotics
 - IEEE Transactions on Automation Science and Engineering
 - IEEE Transactions on Aritificial Intelligence
 - IEEE Transactions on Control Systems Technology
@@ -43,6 +43,8 @@
 - IEEE CASE (2024)
 - ICLR (2025)
 - IROS (2025)
+- CVPR (2026)
+- ECCV (2026)
 
 ## Star History
 
