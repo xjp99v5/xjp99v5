@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Jiaping Xiao, a Ph.D. student at Nanyang Technological University, Singapore (NTU).
+- 👋 Hi, I’m Jiaping Xiao, a Ph.D. graduated from Nanyang Technological University, Singapore (NTU).
 - 🌱 I’m currently working on DRL and machine vision for multiagent systems at [NTU-ICG](https://github.com/NTU-ICG).
-
-
-</p>
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xjp99v5" alt="xjp99v5"/></a> 
-</p>
 
 
 
